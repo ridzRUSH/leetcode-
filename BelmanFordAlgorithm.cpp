@@ -1,5 +1,10 @@
 #include<iostream>
+#include<vector>
+
+using namespace std;
 
 int main(){
-	cout<<"hello world"<<endl;
+	v = 10;
+	std::vector<int> dist(v,1e8);
+	
 }
